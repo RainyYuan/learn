@@ -7,3 +7,4 @@ Git tracks changes of file.
 333
 git branch dev
 git branch1
+Creating a new branch is quick AND simple.
